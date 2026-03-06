@@ -4,12 +4,20 @@ Este repositorio contiene el material, ejercicios y proyectos correspondientes a
 
 ## Tabla de Contenidos
 
+- [Lenguajes de Interfaz](#lenguajes-de-interfaz)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Descripción del Curso](#descripción-del-curso)
   - [Temario](#temario)
+    - [Unidad 1: Introducción al lenguaje ensamblador](#unidad-1-introducción-al-lenguaje-ensamblador)
+    - [Unidad 2: Programación básica](#unidad-2-programación-básica)
+    - [Unidad 3: Modularización](#unidad-3-modularización)
+    - [Unidad 4: Programación de dispositivos](#unidad-4-programación-de-dispositivos)
   - [Tecnologías Utilizadas](#tecnologías-utilizadas)
   - [Estructura del Repositorio](#estructura-del-repositorio)
   - [Instalación y Configuración](#instalación-y-configuración)
+    - [1. Requisitos Previos](#1-requisitos-previos)
+    - [2. Clonar el Repositorio](#2-clonar-el-repositorio)
+  - [Recursos de Instalación](#recursos-de-instalación)
 
 
 ---
@@ -92,7 +100,7 @@ Para el desarrollo en bajo nivel, asegúrate de contar con las siguientes herram
 
 * **Emulador de DOS (Opcional):** [DOSBox](https://www.dosbox.com/) (si se trabaja con arquitectura de 16 bits/segmentada).
 * **Ensamblador/Ligador:** TASM, MASM o NASM según las prácticas de la unidad.
-* **IDE/Editor Recomendado:** * **Visual Studio Code** (instalar extensión "x86 Real Mode Assembly" o "ASM Code Lens").
+* **IDE/Editor Recomendado:** * **Visual Studio Code** (MASM/TASM" y "ASM Code Lens").
     * **SASM** (Simple Assembler IDE) para un entorno más visual en NASM.
 * **Git:** Para clonar y gestionar el repositorio.
 
@@ -101,3 +109,10 @@ Para obtener una copia local de este curso y los ejemplos de código, abre tu te
 
 ```bash
 git clone https://github.com/AbioticBaton4/ISIC-LI.git
+```
+##  Recursos de Instalación
+Para ayudarte a configurar tu entorno, consulta las guías detalladas en la carpeta [/00_Setup](./00_Setup):
+
+* [Guía de Instalación de Extension para VSCode](./00_Setup/Instalacion_Extension.md)
+* [Guía de Instalación de Git](./00_Setup/Instalacion_Git.md)
+* [Primeros pasos con Git y GitHub](./00_Setup/Guia_Git_GitHub.md)
