@@ -15,7 +15,7 @@ Al ejecutar el instalador en Windows, asegúrate de marcar las siguientes opcion
 3.  **Default Editor:** Si no usas Vim, selecciona **Visual Studio Code** como editor por defecto.
 
 ## 3. Verificación de la Instalación
-Abre una terminal (CMD, PowerShell o Git Bash) y ejecuta el siguiente comando para confirmar que Git está listo [00:22:03]:
+Abre una terminal (CMD, PowerShell o Git Bash) y ejecuta el siguiente comando para confirmar que Git está listo:
 
 ```bash
 git --version
