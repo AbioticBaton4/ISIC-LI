@@ -41,18 +41,17 @@ La asignatura de Lenguajes de Interfaz proporciona al estudiante las competencia
 
 ### Unidad 2: Programación básica
 * [2.1 Ensamblador (y ligador) a utilizar](./Unidad_2_Programacion_Basica/2.1_Ensamblador_y_Ligador.md)
-* [2.2 Ciclos numéricos](./Unidad_2_Programacion_Basica/2.2_Ciclos_Numericos.asm)
-* [2.3 Captura básica de cadenas](./Unidad_2_Programacion_Basica/2.3_Captura_Cadenas.asm)
-* [2.4 Comparación y prueba](./Unidad_2_Programacion_Basica/2.4_Comparacion_y_Prueba.asm)
-* [2.5 Saltos](./Unidad_2_Programacion_Basica/2.5_Saltos.asm)
-* [2.9 Instrucciones aritméticas](./Unidad_2_Programacion_Basica/2.9_Instrucciones_Aritmeticas.asm)
-* [2.10 Manipulación de la pila](./Unidad_2_Programacion_Basica/2.10_Manipulacion_Pila.asm)
-* [2.16 Operaciones básicas sobre archivos de disco](./Unidad_2_Programacion_Basica/2.16_Archivos_Disco.asm)
-
+* [2.2 Ciclos numéricos](./Unidad_2_Programacion_Basica/2.2_Ciclos_Numericos.md)
+* [2.3 Captura básica de cadenas](./Unidad_2_Programacion_Basica/2.3_Captura_Cadenas.md)
+* [2.4 Comparación y prueba](./Unidad_2_Programacion_Basica/2.4_Comparacion_y_Prueba.md)
+* [2.5 Saltos](./Unidad_2_Programacion_Basica/2.5_Saltos.md)
+* [2.9 Instrucciones aritméticas](./Unidad_2_Programacion_Basica/2.9_Instrucciones_Aritmeticas.md)
+* [2.10 Manipulación de la pila](./Unidad_2_Programacion_Basica/2.10_Manipulacion_Pila.md)
+* [2.16 Operaciones básicas sobre archivos de disco](./Unidad_2_Programacion_Basica/2.16_Archivos_Disco.md)
 
 ### Unidad 3: Modularización
-* [3.1 Procedimientos](./Unidad_3_Modularizacion/3.1_Procedimientos.asm)
-* [3.2 Macros](./Unidad_3_Modularizacion/3.2_Macros.asm)
+* [3.1 Procedimientos](./Unidad_3_Modularizacion/3.1_Procedimientos.md)
+* [3.2 Macros](./Unidad_3_Modularizacion/3.2_Macros.md)
 
 ### Unidad 4: Programación de dispositivos
 * [4.1 El buffer de video en modo texto](./Unidad_4_Dispositivos/4.1_Buffer_Video.md)
