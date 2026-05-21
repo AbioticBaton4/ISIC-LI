@@ -3,18 +3,19 @@
 
 .data
     ; --- Espacio para el Cambio 1 ---
-    ; Declara aquí tu variable 'edad'
 
+       edad db 20
 .code
 main proc
-    ; Inicialización del segmento de datos
+ 
     mov ax, @data
     mov ds, ax
 
     ; --- Espacio para el Cambio 2 ---
-    ; Realiza aquí los movimientos a BL (Directo) y BH (Inmediato)
-
-    ; Finalización del programa
+ 
+  mov bl, edad
+    mov bh, 30
+    
     mov ax, 4c00h
     int 21h
 main endp
